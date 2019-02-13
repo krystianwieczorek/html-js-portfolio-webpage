@@ -1,0 +1,189 @@
+body{
+
+    background-color: #303030;
+    color: snow;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+}
+
+#container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+
+
+}
+
+#logo{
+    width: 600px;
+    float: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    text-align: left;
+
+}
+
+#clock{
+    float: left;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    text-align: left;
+}
+
+.ractangle{
+    width: 960px;
+    margin: 20px;
+    text-align: center;
+
+ }
+
+.square{
+    width: 50%;
+    float: left;
+
+}
+
+.square{
+
+}
+
+.tile1{
+    width: 230px;
+    margin: 10px;
+    height: 142px;
+    background-color: darkslateblue;
+    float: left;
+    text-align: center;
+}
+
+.tile1:hover{
+
+    background-color: #383C7A;
+}
+
+.tile2{
+    width: 230px;
+    margin: 10px;
+    height: 142px;
+    background-color: #777777;
+    float: left;
+    text-align: center;
+}
+
+.tile2:hover{
+
+    background-color: #666666;
+}
+
+.tile3{
+    width: 230px;
+    margin: 10px;
+    height: 142px;
+    background-color: mediumvioletred;
+    float: left;
+    text-align: center;
+}
+
+.tile3:hover{
+
+    background-color: #B60474;
+}
+
+
+.tile4{
+    width: 420px;
+    margin: 10px;
+    height: 82px;
+    background-color: brown;
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
+    line-height: 150%;
+}
+
+
+.tile5{
+    width: 420px;
+    margin: 10px;
+    height: 246px;
+    background-color: #777777;
+    text-align: justify;
+    padding: 30px;
+}
+
+.FB{
+    width: 105px;
+    margin: 10px;
+    height: 142px;
+    background-color: #3b5998;
+    float: left;
+}
+
+.FB:hover{
+
+    background-color: #2a4887;
+}
+
+
+.GH{
+    width: 105px;
+    margin: 10px;
+    height: 142px;
+    background-color: #202020;
+    float: left;
+}
+
+.GH:hover{
+
+    background-color: #111111;
+}
+
+
+
+.IG{
+    width: 105px;
+    margin: 10px;
+    height: 142px;
+    background-color: white;
+    color: black;
+    float: left;
+}
+
+.IG:hover{
+
+    background-color: #dddddd;
+}
+
+.tile9{
+    width: 105px;
+    margin: 10px;
+    height: 142px;
+    background-color: #d34836;
+    float: left;
+}
+
+.tile9:hover{
+
+    background-color: #c23726;
+}
+
+a.tilelink{
+    color: #ffffff;
+    text-decoration: none;
+    display: block;
+    width: 230px;
+    height: 142px;
+}
+
+a.sociallink{
+    color: inherit;
+    text-decoration: none;
+    display: block;
+    width: 105px;
+    height: 142px;
+}
+
+a.html5link{
+    color: #ffffff;
+    text-decoration: none;
+}
